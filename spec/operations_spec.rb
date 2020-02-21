@@ -1,5 +1,5 @@
 
-describe "Operations" do
+describe "Operations" dohttps://learn.co/tracks/online-software-engineering-structured/procedural-ruby/logic-and-conditionals/ternary-operators-and-statement-modifiers#
   let(:file_contents) { File.read(File.join(File.dirname(__FILE__), '..', 'lib/operations.rb')) }
 
   describe "#unsafe?" do
