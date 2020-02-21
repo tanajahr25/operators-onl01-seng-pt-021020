@@ -5,7 +5,7 @@ if speed > 60
   true
   elsif speed < 40
   true
-  else 40 >= speed <= 60
+  else 
     binding.pry 
     speed >= 40 && speed <= 60
   false
